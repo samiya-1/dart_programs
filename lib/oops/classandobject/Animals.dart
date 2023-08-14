@@ -24,8 +24,9 @@ class Animals {
 void main() {
 
   Animals animaldetails = Animals();
-
+  print("------------------------");
   animaldetails.wildAnimals();
   print("------------------------");
   animaldetails.pets();
+  print("------------------------");
 }
